@@ -1,0 +1,1 @@
+# Adroidconnectz-Multi-Text-Extraction-from-Images
